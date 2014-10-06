@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fupet/frontend_tdd.svg?branch=marionette_test)](https://travis-ci.org/fupet/frontend_tdd?branch=marionette_test)
+[![Build Status](https://travis-ci.org/fupet/frontend_tdd.svg?branch=dropdown_tdd)](https://travis-ci.org/fupet/frontend_tdd)
 
 Frontend TDD with mocha
 ============
